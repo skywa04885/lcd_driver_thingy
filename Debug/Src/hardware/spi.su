@@ -1,0 +1,7 @@
+spi.cc:5:2:Hardware::SPI::SPI(volatile SPI_TypeDef*)	16	static
+spi.cc:9:7:void Hardware::SPI::init()	16	static
+spi.cc:52:7:void Hardware::SPI::start()	16	static
+spi.cc:58:7:void Hardware::SPI::stop()	16	static
+spi.cc:64:7:void Hardware::SPI::await()	16	static
+spi.cc:69:7:void Hardware::SPI::write8(u8)	16	static
+spi.cc:75:5:u8 Hardware::SPI::trans8(u8)	16	static

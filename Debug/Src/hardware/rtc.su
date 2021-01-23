@@ -1,0 +1,9 @@
+rtc.cc:5:7:static void Hardware::RTCDriver::unlock()	4	static
+rtc.cc:12:7:static void Hardware::RTCDriver::lock()	4	static
+rtc.cc:17:7:static void Hardware::RTCDriver::init()	8	static
+rtc.cc:47:7:static void Hardware::RTCDriver::getDateString(char*)	48	static
+rtc.cc:55:17:static Hardware::RTC_DateTime_t Hardware::RTCDriver::getDateTime()	24	static
+rtc.cc:63:13:static Hardware::RTC_Time_t Hardware::RTCDriver::getTime()	16	static
+rtc.cc:82:7:static void Hardware::RTCDriver::setTime(u8, u8, u8)	16	static
+rtc.cc:97:13:static Hardware::RTC_Date_t Hardware::RTCDriver::getDate()	16	static
+rtc.cc:118:7:static void Hardware::RTCDriver::setDate(u8, u8, u8, Hardware::RTC_WeekDay_t)	16	static

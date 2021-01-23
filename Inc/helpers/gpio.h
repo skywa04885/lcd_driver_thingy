@@ -1,0 +1,12 @@
+#pragma once
+
+#define GPIO_MODE_INPUT 		0b00
+#define GPIO_MODE_OUTPUT 	0b01
+#define GPIO_MODE_AF			0b10
+#define GPIO_MODE_ANALOG		0b11
+#define GPIO_MODE_MASK		0b11
+
+#define GPIO_PUPDR_NO_PUPD	0b00
+#define GPIO_PUPDR_PULLUP	0b01
+#define GPIO_PUPDR_PULLDOWN	0b10
+#define GPIO_PUPDR_RESET		0b11

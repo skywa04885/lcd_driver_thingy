@@ -1,0 +1,4 @@
+main.cc:21:6:void setup()	8	static
+main.cc:94:6:void lcd_init()	8	static
+main.cc:188:16:int main()	64	static
+main.cc:253:1:cc)	24	static

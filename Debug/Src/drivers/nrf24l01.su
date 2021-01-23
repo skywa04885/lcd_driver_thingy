@@ -1,0 +1,9 @@
+nrf24l01.cc:5:2:Drivers::NordicSemi::NRF24L01::NRF24L01(Drivers::NordicSemi::NRF24L01_Config_t, Hardware::SPI&, volatile GPIO_TypeDef*, u8)	24	static
+nrf24l01.cc:13:7:void Drivers::NordicSemi::NRF24L01::init()	32	static
+nrf24l01.cc:59:7:void Drivers::NordicSemi::NRF24L01::transmit(u8*, u8*, u8)	24	static
+nrf24l01.cc:95:7:void Drivers::NordicSemi::NRF24L01::registerWrite(u8, u8)	16	static
+nrf24l01.cc:107:7:void Drivers::NordicSemi::NRF24L01::registerSet(u8, u8)	24	static
+nrf24l01.cc:114:7:void Drivers::NordicSemi::NRF24L01::registerClear(u8, u8)	24	static
+nrf24l01.cc:121:5:u8 Drivers::NordicSemi::NRF24L01::registerRead(u8)	24	static
+nrf24l01.cc:139:7:void Drivers::NordicSemi::NRF24L01::bufferWrite(u8, u8*, u8)	32	static
+nrf24l01.cc:152:7:void Drivers::NordicSemi::NRF24L01::payloadWrite(u8*, u8)	32	static

@@ -1,0 +1,5 @@
+core_cm7.h:1896:22:void __NVIC_EnableIRQ(IRQn_Type)	16	static
+rs232.cc:3:16:int __io_putchar(int)	16	static
+rs232.cc:12:7:static void Hardware::RS232::init(u32)	16	static
+rs232.cc:25:7:static void Hardware::RS232::write(char)	16	static
+rs232.cc:35:7:static void Hardware::RS232::write(const char*)	16	static

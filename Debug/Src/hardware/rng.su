@@ -1,0 +1,2 @@
+rng.cc:9:7:static void Hardware::RandomNumberGenerator::init()	4	static
+rng.cc:21:6:static u32 Hardware::RandomNumberGenerator::generate()	16	static

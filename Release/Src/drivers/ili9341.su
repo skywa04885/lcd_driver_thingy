@@ -1,0 +1,16 @@
+ili9341.cc:82:2:Drivers::ILI9341::ILI9341(Hardware::SPI&, volatile GPIO_TypeDef*, u8, u8)	8	static
+ili9341.cc:93:7:void Drivers::ILI9341::command(u8)	16	static
+ili9341.cc:104:7:void Drivers::ILI9341::data(u8)	16	static
+ili9341.cc:115:7:void Drivers::ILI9341::data(u16, u16)	16	static
+ili9341.cc:130:7:void Drivers::ILI9341::data(u8*, u8)	16	static
+ili9341.cc:147:7:void Drivers::ILI9341::softwareReset()	8	static
+ili9341.cc:153:7:void Drivers::ILI9341::hardwareReset()	16	static
+ili9341.cc:165:7:void Drivers::ILI9341::init()	56	static
+ili9341.cc:282:7:void Drivers::ILI9341::setColumnAddress(u16, u16)	16	static
+ili9341.cc:288:7:void Drivers::ILI9341::setRowAddress(u16, u16)	16	static
+ili9341.cc:294:7:void Drivers::ILI9341::writePixel(const Drivers::ILI9341_Color_t&)	16	static
+ili9341.cc:236:7:void Drivers::ILI9341::drawPixel(const Drivers::ILI9341_Color_t&, u16, u16)	16	static
+ili9341.cc:262:7:void Drivers::ILI9341::drawBitmap(const Drivers::ILI9341_Color_t&, u8*, u16, u16, u8)	48	static
+ili9341.cc:229:7:void Drivers::ILI9341::drawNumber(const Drivers::ILI9341_Color_t&, u16, u16, u8)	24	static
+ili9341.cc:301:7:void Drivers::ILI9341::drawSquare(const Drivers::ILI9341_Color_t&, u16, u16, u16, u16)	32	static
+ili9341.cc:330:7:void Drivers::ILI9341::clear(const Drivers::ILI9341_Color_t&)	16	static
